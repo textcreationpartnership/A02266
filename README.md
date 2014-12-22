@@ -35,11 +35,15 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-A sermon preached at St. Maries Spittle on Munday in Easter weeke the fourteenth day of Aprill, anno
+
 #####Body#####
-A sermon preached at St. Maries Spittle on Munday in Easter weeke the fourteenth day of Aprill, anno
+
+1. A SERMON PREACHED AT SAINT MARIES SPITTLE.
+
 #####Back#####
-A sermon preached at St. Maries Spittle on Munday in Easter weeke the fourteenth day of Aprill, anno
+
+1. Errata.
+
 **Types of content**
 
   * Oh, Mr. Jourdain, there is **prose** in there!
